@@ -176,5 +176,3 @@ If you use this code, please cite both the original DiffPIR and this project:
   year      = {2026},
 }
 ```
-
-**Original DiffPIR**:
