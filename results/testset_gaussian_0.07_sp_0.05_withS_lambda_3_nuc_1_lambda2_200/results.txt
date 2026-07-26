@@ -1,2 +1,0 @@
-Image Name,Gaussian Sigma,Sparse Density,S-term,PSNR (dB),LPIPS,SSIM
-69037.png,0.07,0.05,with_S,26.7479,0.3388,0.7764
