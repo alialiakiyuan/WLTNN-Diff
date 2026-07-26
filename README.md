@@ -63,7 +63,6 @@ python demo.py
 
 ```
 ├── demo.py              # Main denoising script (modified from DiffPIR)
-├── denoise_10.py        # Reference implementation from DiffPIR
 ├── trpca_l1.py          # Tensor Robust PCA with L1 proximal operator
 ├── guided_diffusion/    # Diffusion model (from DiffPIR)
 ├── utils/               # Utility functions (from DiffPIR, modified)
